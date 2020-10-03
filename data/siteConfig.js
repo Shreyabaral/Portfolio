@@ -25,7 +25,7 @@ module.exports = {
     },
     {
       name: 'CSS',
-      level: 60
+      level: 70
     },
     {
       name: 'Javascript',
@@ -33,11 +33,11 @@ module.exports = {
     },
     {
       name: 'Python',
-      level: 50
+      level: 60
     },
     {
       name: 'React',
-      level: 60
+      level: 50
     },
     {
       name: 'Git',
@@ -114,7 +114,7 @@ module.exports = {
   background_color: '#ffffff',
   theme_color: '#25303B',
   fontColor: "#000000cc",
-  enableDarkmode: true, // If true, enables dark mode switch
+  enableDarkmode:true, // If true, enables dark mode switch
   display: 'minimal-ui',
   icon: 'src/assets/whay11.png',
   headerLinks: [
